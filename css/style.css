@@ -1,0 +1,16 @@
+.img-fluid {
+    width: auto;
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .responsive {
+        padding: 2px 2px;
+        background-color: black;
+    }
+    
+    .responsive img {
+        width: auto;
+        height: auto;
+    }
+}
